@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aarti Malik"
+title                    : "Sagar Uppal"
 title_separator          : "-"
-name                     : &name "Aarti Malik"
+name                     : &name "Sagar Uppal"
 description              : &description "M.A. Economics Student, Department of Economics, Delhi School of Economics"
-url                      : https://aartimalik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sagaruppal1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aartimalik/aartimalik.github.io"
+repository               : "sagaruppal1997/sagaruppal1997.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aarti Malik"
-  avatar           : "aarti_web.jpg"
+  name             : "Sagar Uppal"
+  avatar           : "sagar_web.jpg"
   bio              : "M.A. Economics Student, Department of Economics, Delhi School of Economics"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "aartimalik96@gmail.com"
+  email            : "sagaruppal1997@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aartimalik"
+  github           : "sagaruppal1997"
   google_plus      :
   keybase          :
   instagram        :
